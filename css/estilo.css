@@ -1,0 +1,9 @@
+.conteudo{ display:flex;}
+footer{background-color: green;}
+ footer .conteudo{display: flex;
+color: bisque;}
+footer .conteudo ul{width: 25%;}
+
+footer .conteudo h2{margin-bottom:16px ;
+font-weight: 600px;}
+footer .conteudo .redes-sociais img{}
